@@ -1,13 +1,12 @@
 ---
-title: "Article Four"
-category: mental
-author: lukefilewalker
-date: 2014-09-28
-image: problem-solving.jpg
-featured: sub
-tags:
-- tag1
-- tag2
+title: "Article Five"
+date: 2015-10-23T18:43:54+02:00
+summary: "How to copy and paste to and from the clipboard while working in the cli."
+author: "lukefilewalker"
+featured: true
+categories: ["mental"]
+tags: ["bash", "shell", "xclip"]
+#comments: true
 ---
 
 ## Introduction
