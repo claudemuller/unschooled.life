@@ -15,7 +15,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: dev
+  env: development
   title: "Unschooled Life"
   description: "A collection of learnings."
   keywords: [Blog]
