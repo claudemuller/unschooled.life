@@ -2,6 +2,7 @@ baseURL: https://unschooled.life/
 languageCode: en-us
 title: "Unschooled Life"
 theme: "PaperMod"
+version: 0.1
 
 enableRobotsTXT: true
 buildDrafts: false
