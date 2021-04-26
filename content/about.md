@@ -1,8 +1,7 @@
 ---
 title: "About Unschooled Life"
 date: "2021-04-04"
-image: 'knowledge.jpg'
-attribution: 'Photo by Element5 Digital from Pexels'
+pageType: static
 ---
 
 # About Unschooled Life
